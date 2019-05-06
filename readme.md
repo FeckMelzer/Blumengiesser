@@ -29,4 +29,4 @@ Die IoT-Lösung soll es ermöglichen, den Gießvorgang der Topfpflanzen zu autom
 Topfpflanzenbesitzer sollen ihre Pflanzen bequem von unserer Bewässerungsanlage automatisiert gießen lassen können. Außerdem sollen sie von der inkludierten Webapplikation die nötigen Daten ihrer Pflanzen ablesen können. Dies erleichtert die Topfpflanzenhaltung erheblich.
 
 ## 6 Use-Case Diagramm
-(Use%20Case.PNG)
+![](Use%20Case.PNG)
